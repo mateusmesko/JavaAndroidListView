@@ -2,4 +2,4 @@
 
 ## SUBITISTUIR SRC
 
-Focado para ser mais dinamico
+Focado para ser mais dinamico, utilizando modo sincrono
